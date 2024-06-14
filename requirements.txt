@@ -1,3 +1,7 @@
 streamlit==1.10.0
 pdfplumber==0.6.0
-requests==2.26.0
+click==8.0.0
+protobuf<4
+altair==4.2.2
+urllib3==1.26.18
+charset_normalizer==2.0.12  # or chardet==5.2.0 based on what your dependencies require
